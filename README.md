@@ -6,7 +6,11 @@ If you have a github account, it would be a good idea to link it to your glitch 
 
 ## Summary
 
-The goal of this tutorial is not to teach you react, redux or any of these concepts as much as it is a way to practice the usage of these concepts. If this is your first exposure to JavaScript, React, or Redux, this will be very hard and you will not know what you are typing for the most part, but if you can follow along and get it working it would be a good start. If you follow the Drefus model, the first step to learning something is to learn how to do tasks by just following instructions, then as you get confidence in following the instructions, veer from the preset path and try to explore different ways of doing the same thing, this will really start to help you understand these concepts. But for starters, don't worry about trying to understand everything as much as just follow along in the tutorial. If you get stuck or find an issue with a section, a typo or something that is just not explained very clear, please post an issue on the github repo - 
+The goal of this tutorial is not to make you a react, redux expert as much as it is a way to practice the usage of these concepts. If this is your first exposure to JavaScript, React, or Redux, this will be very hard and you will not know what you are typing for the most part, but if you can follow along and get it working it would be a good start. If you follow the Drefus model, the first step to learning something is to learn how to do tasks by just following instructions, then as you get confidence in following the instructions, veer from the preset path and try to explore different ways of doing the same thing, this will really start to help you understand these concepts. But for starters, don't worry about trying to understand everything as much as just follow along in the tutorial. If you get stuck or find an issue with a section, a typo or something that is just not explained very clear, please post an issue on the github repo - https://github.com/twilson63/react-redux-tutorial/issues
+
+## Requirements
+
+* Glitch - This tutorial is best suited for the glitch environment, but you may export it and work locally if you prefer.
 
 ## Setup
 
